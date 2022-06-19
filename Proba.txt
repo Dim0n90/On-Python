@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 proba pera 111 + 
 prodolgy
+=======
+proba pera 111 pomenyal!
+>>>>>>> 6c165914a832010fd9daf591766dc0c6e066984c
